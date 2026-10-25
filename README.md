@@ -22,7 +22,7 @@ A simple and interactive scoreboard game built using HTML, CSS, and JavaScript. 
 2. Open `index.html` in your browser.
 
 ## 🌐 Live Demo
-Coming soon!
+https://ani-scoreboard-game.netlify.app/
 
 ---
 Made with ❤️ while learning web development.
